@@ -396,6 +396,7 @@ div.thumb {
 .spinner svg {
   width: 80px;
   height: 80px;
+  left: 50%;
   stroke: #3AFEA4;
   fill: #3AFEA4;
 }
